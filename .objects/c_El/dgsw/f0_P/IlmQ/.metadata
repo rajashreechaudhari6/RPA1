@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Intermediate D3D Window'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "IlmQL_w68k6_Qp_hv8N0vQ",
+  "Reference": "ntPumW2o6kiaAUEJEDUEbw/IlmQL_w68k6_Qp_hv8N0vQ",
+  "ParentRef": "ntPumW2o6kiaAUEJEDUEbw/f0_PaJoHJEKdfIwYIQIj4w",
+  "Created": "2023-11-25T15:16:09.6616458Z",
+  "Updated": "2023-11-25T15:16:09.6616458Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

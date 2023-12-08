@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ubDQHJ5RyUyd88QY9Cpa3w" Reference="ntPumW2o6kiaAUEJEDUEbw/IlmQL_w68k6_Qp_hv8N0vQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="9, 9, 1920, 1020" DesignTimeScaleFactor="1.25" FriendlyName="'Intermediate D3D Window'" FullSelectorArgument="&lt;wnd cls='Intermediate D3D Window' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Intermediate D3D Window' /&gt;" Guid="1448a7c4-1e41-4bbf-bc7d-2e4943eec168" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Log In - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="UIA" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="93591366e2ca397f36298f470c12bd7b.png" xmlns="">04RIzqz9uGkOrPdiO1zIoLw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
